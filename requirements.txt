@@ -1,0 +1,5 @@
+easyocr
+requests
+Pillow
+colorama
+pyautogui

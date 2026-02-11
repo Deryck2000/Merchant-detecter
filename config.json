@@ -1,0 +1,13 @@
+{
+    "webhook_url": "",
+    "mention": "",
+    "target_text": "Mari",
+    "target_text2": "Jester",
+    "check_interval_seconds": 3,
+    "scan_area": {
+        "left": 12,
+        "top": 355,
+        "right": 444,
+        "bottom": 377
+    }
+}
