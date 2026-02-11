@@ -4,7 +4,8 @@ Uses EasyOCR to read the latest chat message, detect merchants, and trigger Webh
 <a href="https://blog.codinghorror.com/the-works-on-my-machine-certification-program/"><img src="https://raw.githubusercontent.com/Deryck2000/Merchant-detecter/refs/heads/main/something/works-on-my-machine-v2.webp"></img></a>
 
 i made this for myself, but i also put it on github  
-logs only japanese sry
+logs only japanese sry  
+
 ## Requirement
 - Python
 - pip
@@ -18,4 +19,6 @@ logs only japanese sry
    - `scan_area` : scan area, example :  
      <img src="https://raw.githubusercontent.com/Deryck2000/Merchant-detecter/refs/heads/main/something/area-example.png"></img>  
      and u can get params with run `range_check.bat`
-1. Run `START.bat`
+1. Run `START.bat` 
+
+ i missed mari twice while writing this
