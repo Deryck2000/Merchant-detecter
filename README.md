@@ -9,12 +9,13 @@ logs only japanese sry
 - Python
 - pip
 
-## how to use
-1. edit `config.json`  
+## How to use
+1. Download latest release and unzip
+1. Edit `config.json`  
    - `webhook_url` : your webhook url  
    - `mention` : user/role id if u use discord
    - `check_interval_seconds` : scan chat interval seconds
    - `scan_area` : scan area, example :  
      <img src="https://raw.githubusercontent.com/Deryck2000/Merchant-detecter/refs/heads/main/something/area-example.png"></img>  
      and u can get params with run `range_check.bat`
-2. run `START.bat`
+1. Run `START.bat`
